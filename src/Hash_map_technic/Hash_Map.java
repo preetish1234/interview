@@ -1,4 +1,4 @@
-package interview;
+package Hash_map_technic;
 
 
 import java.util.HashMap;
@@ -10,7 +10,7 @@ public class Hash_Map {
 	
 	public static void main(String[]args){
 
-		String name  ="preetish";
+		String name ="preetish";
         long nbr = 8152888585L;      
          
       

@@ -1,4 +1,4 @@
-package interview;
+package Hash_map_technic;
 
 
 import java.util.HashMap;
