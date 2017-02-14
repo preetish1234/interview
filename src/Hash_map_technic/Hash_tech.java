@@ -16,7 +16,7 @@ public class Hash_tech {
 hmap.put("preetish", "8152888585");
 hmap.put("pintu", "9431543369");
 hmap.put("jaleshwar", "7079377847");
-
+hmap.put("preetish", "815288855");
 
 do {
 	

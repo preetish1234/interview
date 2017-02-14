@@ -4,9 +4,7 @@ import java.util.Scanner;
  
 class SwapNumbers
 {
-   /**
- * @param args
- */
+   
 public static void main(String args[])
    {
       int x, y, temp;
